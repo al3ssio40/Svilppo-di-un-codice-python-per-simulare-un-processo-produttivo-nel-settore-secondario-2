@@ -1,1 +1,9 @@
-# Svilppo-di-un-codice-python-per-simulare-un-processo-produttivo-nel-settore-secondario-2
+# Production Simulator
+
+Questo progetto simula la produzione di diversi prodotti generando parametri casuali:
+
+- Quantità da produrre
+- Tempo unitario di produzione
+- Capacità giornaliera
+
+Calcola poi il tempo totale di produzione in minuti, ore e giorni lavorativi.
